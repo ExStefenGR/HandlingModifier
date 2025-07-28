@@ -65,10 +65,4 @@ If you're looking for an intuitive way to customize GTA V vehicle handling and u
 
 ## Contributing
 
-As an open-source project, contributions are welcome! If you find bugs, have suggestions for new features, or want to contribute code, please feel free to:
-
-1.  Fork the repository.
-2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
+As an open-source project, contributions are welcome! If you find bugs, have suggestions for new features, or want to contribute code, please reach out.
