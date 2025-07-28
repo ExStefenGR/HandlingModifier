@@ -37,8 +37,7 @@ If you're looking for an intuitive way to customize GTA V vehicle handling and u
 
 ## How to Use It
 
-1.  **Run the Application:** Download the latest executable from the [Releases](https://github.com/ExStefenGR/HandlingModifier/releases/tag/2.5) page and run it. *(Remember to create a Release if this is a GitHub project!)*
-2.  **Select GTA V Data Folder:** Upon launch, click the "Browse" button. You should point the tool to a folder that contains your `handling.meta` files.
+1.  **Run the Application:** Download the latest executable from the [Releases](https://github.com/ExStefenGR/HandlingModifier/releases/tag/2.5) page and run it.
     * **Recommended:** Point to your **`Vehicle/Data`** folder. The tool will recursively search within for `handling.meta` files.
     * The tool expects `handling.meta` files to be found in structures similar to `data\vehicle_folder\handling.meta`.
 3.  **Choose an Operation:** Once a valid directory is selected and files are found, choose from the options presented in the interface to perform actions such as:
